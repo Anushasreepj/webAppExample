@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Demo session Amma</h2>
+<h2>Welcome to Demo session</h2>
 </body>
 </html>
